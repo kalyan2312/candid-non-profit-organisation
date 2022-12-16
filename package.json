@@ -14,5 +14,12 @@
     "None"
   ],
   "author": "Vishu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejs": "^3.1.8",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.20",
+    "os": "^0.1.2"
+  }
 }
